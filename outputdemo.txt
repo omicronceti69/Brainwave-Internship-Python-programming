@@ -1,0 +1,112 @@
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8722260887
+Welcome Vishwas S S
+
+OTP sent to your phone: 306034
+
+Enter OTP: 306033
+Incorrect OTP. Try again.
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8722260887
+Welcome Vishwas S S
+
+OTP sent to your phone: 521728
+
+Enter OTP: 521728
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 2
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 1
+Enter PIN: 2119
+Your current balance is: ₹ 100
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Fri May 30 15:01:04 2025
+------------------------------------------------------------
+Customer Name:     Vishwas S S
+Account Number:    6008731109
+Customer Card :      xxxx xxxx xxxx 3173
+Transaction:            Balance Enquiry
+Available Balance:   ₹ 100
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 9902750970
+Welcome Shree Darshan M
+
+OTP sent to your phone: 233752
+
+Enter OTP: 233752
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 2
+Enter PIN: 9005
+Enter amount to withdraw: ₹5211
+Withdraw Successful
+Your updated balance is: ₹ 36789
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Fri May 30 15:01:04 2025
+------------------------------------------------------------
+Customer Name:     Shree Darshan M
+Account Number:    60904400056
+Customer Card :      xxxx xxxx xxxx 8045
+Transaction:            Withdraw
+Amount:                  ₹ 5211
+Available Balance:   ₹ 36789
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 9901505558
+Welcome Vinay Kumar
+
+OTP sent to your phone: 902303
+
+Enter OTP: 902303
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 4
+Thank you for using our ATM. Goodbye!
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 
